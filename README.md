@@ -6,24 +6,17 @@
 
 ###
 
-
-###
-
 <h2 align="left">Contact ☎ </h2>
-
-###
-
 
 ###
 <div align="left">
   
-  <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=blue&style=for-the-badge&logo=google-chrome&logoColor=white" height="35" alt="website logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+[![Website logo](https://img.shields.io/static/v1?label=&message=WEBSITE&color=blue&style=for-the-badge&logo=google-chrome&logoColor=white)](https://tusitio.com "Website")
+[![Gmail logo](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:tucorreo@gmail.com "Gmail")
+[![LinkedIn logo](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/tucuenta "LinkedIn")
 </div>
 
 ###
-
 
 <h2 align="left">Skills 🛠 </h2>
 
@@ -52,7 +45,6 @@
 <h3 align="left">My Stats 🔥  </h3>
 
 ###
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=josuereyes16&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
