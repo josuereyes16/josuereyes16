@@ -11,9 +11,9 @@
 ###
 <div align="left">
   
-[![Website logo](https://img.shields.io/static/v1?label=&message=WEBSITE&color=blue&style=for-the-badge&logo=google-chrome&logoColor=white)](https://tusitio.com "Website")
-[![Gmail logo](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:tucorreo@gmail.com "Gmail")
-[![LinkedIn logo](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/tucuenta "LinkedIn")
+[![Website logo](https://img.shields.io/static/v1?label=&message=WEBSITE&color=blue&style=for-the-badge&logo=google-chrome&logoColor=white)](https://drive.google.com/file/d/1q5C0wgQLwBFXoN4-WtKaJs8yl_2LVUrI/view?usp=sharing "Website")
+[![Gmail logo](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:antoniojosuerp@ufps.edu.co "Gmail")
+[![LinkedIn logo](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/josuereyes16/ "LinkedIn")
 </div>
 
 ###
