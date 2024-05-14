@@ -107,6 +107,9 @@
 </div>
 
 ###
+
 <!--  
+[![](https://visitcount.itsvg.in/api?id=josuereyes16&icon=0&color=0)](https://visitcount.itsvg.in)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=josuereyes16&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 -->
