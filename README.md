@@ -11,7 +11,7 @@
 ###
 <div align="center">
   
-[![Website logo](https://img.shields.io/static/v1?label=&message=WEBSITE&color=blue&style=for-the-badge&logo=google-chrome&logoColor=white)](https://drive.google.com/file/d/12lWXEsZYgnOW1XJdLfEBxv_6jx2ehR_R/view?usp=sharing "Website")
+[![Website logo](https://img.shields.io/static/v1?label=&message=WEBSITE&color=blue&style=for-the-badge&logo=google-chrome&logoColor=white)](https://josue-reyes.netlify.app/)
 [![Gmail logo](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:antoniojosuerp@ufps.edu.co "Gmail")
 [![LinkedIn logo](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/josuereyes16/ "LinkedIn")
 </div>
